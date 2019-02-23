@@ -1,0 +1,10 @@
+bgc {
+    background: rgb(193, 197, 199)
+}
+
+.box_1 {
+    height: 600px;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+  }

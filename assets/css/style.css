@@ -1,0 +1,101 @@
+.box_1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 600px;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+  }
+
+.box_2 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 400px;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+  }
+
+.box_img {
+  padding: 10px;
+  margin-top:10px;
+  margin-left:5px;
+  margin-right:5px;
+  margin-bottom:10px;
+  align-content: center;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+  background: lightgray;
+}
+
+p {
+  font-size: 20px;
+}
+
+.table_box {
+  background: white;
+  padding: 10px;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.comp_box {
+  background: white;
+  padding: 10px;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.fig_box {
+  background: white;
+  margin-top: 20px;
+}
+
+@media (max-width: 844px) {
+  .box_1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 800px;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+  }
+
+  .box_2 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 800px;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+    }
+}
+
+@media (max-width: 768px) {
+  .box_2 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+    }
+}
